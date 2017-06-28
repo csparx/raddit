@@ -198,7 +198,11 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise (~> 4.2)
   jbuilder (~> 2.5)
+<<<<<<< HEAD
   jquery-rails (~> 4.3, >= 4.3.1)
+=======
+  jquery-rails
+>>>>>>> add_bootstrap
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.7)
   rails (~> 5.1.1)
