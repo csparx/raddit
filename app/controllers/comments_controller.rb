@@ -18,7 +18,6 @@ class CommentsController < ApplicationController
         format.html { render action: "new" }
         format.json { render json: @comment.errors, status: :unprocessable_entity }
       end
-      redirect_to request.referer
     end
   end
 
